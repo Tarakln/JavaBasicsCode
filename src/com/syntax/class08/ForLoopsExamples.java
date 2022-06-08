@@ -26,8 +26,8 @@ public class ForLoopsExamples {
 		System.out.println();
 
 		// print even numbers from 20 to 1(2 ways)
-		for (int x = 20; x >= 1; x -= 2) {
-			System.out.print(x + " ");
+		for (int c = 20; c >= 1; c -= 2) {
+			System.out.print(c + " ");
 		}
 
 		System.out.println();
