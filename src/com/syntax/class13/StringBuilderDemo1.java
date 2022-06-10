@@ -8,6 +8,8 @@ public class StringBuilderDemo1 {
 		str.reverse();
 		System.out.println(str);
 		
+		//StringBuilder can be changed, String is not
+		
 	}
 
 }
